@@ -1,5 +1,4 @@
 # MealDBFrontEnd
-utilizing mealDB api for frontend practice
 
 Using the Meal DB API, create a web application that contains the pages described below. Feel free to use any language, framework, libraries, and style you want.
 
